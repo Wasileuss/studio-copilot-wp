@@ -1,0 +1,15 @@
+.footer__inputs  {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 3.375rem
+}
+.wpcf7-form-control.footer__button {
+    width: auto;
+}
+.footer__checkbox {
+    display: none;
+}
+.footer__label br {
+    display: none;
+}
